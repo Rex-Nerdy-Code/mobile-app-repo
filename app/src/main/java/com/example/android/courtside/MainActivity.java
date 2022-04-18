@@ -271,6 +271,7 @@ public class MainActivity extends AppCompatActivity {
             editor.putBoolean(
                     "isDarkModeOn", true);
             editor.apply();
+            //dis
 
             // change text of Button
             darkModeButton.setTitle(
